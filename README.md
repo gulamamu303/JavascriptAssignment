@@ -13,17 +13,6 @@ This is a simple task management application built using HTML, CSS, and JavaScri
 - Data persistence using local storage, ensuring tasks remain available after page refresh.
 - Responsive design for optimal viewing on various devices.
 
-## File Structure
-```
-task-management-app
-├── css
-│   └── styles.css        # Styles for the application
-├── js
-│   └── app.js            # Main JavaScript code for task management
-├── index.html            # Main HTML document
-└── README.md             # Project documentation
-```
-
 ## Getting Started
 
 ### Prerequisites
