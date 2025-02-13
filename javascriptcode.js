@@ -83,7 +83,7 @@ function editTask(index) {
     // Set the task index
     editingTaskIndex = index;
 
-    // Show the modal
+    // This line makes the modal visible
     document.getElementById("editModal").style.display = "block";
 }
 
